@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-genpark-review-summarizer",
+  "version": "1.0.0",
+  "description": "Aggregates multi-source product reviews, extracts positive/negative sentiment themes, and computes feature ratings",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
